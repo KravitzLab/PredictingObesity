@@ -1,0 +1,29 @@
+
+=== BEAM Session Coverage Report (2-day window) ===
+ZIP: C:/Users/Work/Downloads/hublink_7d_2025-11-19T16-18-23-928Z.zip
+Date window: 20251115 → 20251116 (inclusive)
+Window dates: 20251115, 20251116
+Matched CSVs moved: 38
+Unique BEAM devices: 19
+Report saved to: C:/Users/Work/Downloads\beam_session_report.xlsx
+
+Per-BEAM coverage (days represented out of 2):
+  BEAM001: 2/2 days → 20251115, 20251116
+  BEAM002: 2/2 days → 20251115, 20251116
+  BEAM003: 2/2 days → 20251115, 20251116
+  BEAM004: 2/2 days → 20251115, 20251116
+  BEAM005: 2/2 days → 20251115, 20251116
+  BEAM006: 2/2 days → 20251115, 20251116
+  BEAM007: 2/2 days → 20251115, 20251116
+  BEAM008: 2/2 days → 20251115, 20251116
+  BEAM009: 2/2 days → 20251115, 20251116
+  BEAM010: 2/2 days → 20251115, 20251116
+  BEAM011: 2/2 days → 20251115, 20251116
+  BEAM012: 2/2 days → 20251115, 20251116
+  BEAM014: 2/2 days → 20251115, 20251116
+  BEAM015: 2/2 days → 20251115, 20251116
+  BEAM016: 2/2 days → 20251115, 20251116
+  BEAM017: 2/2 days → 20251115, 20251116
+  BEAM018: 2/2 days → 20251115, 20251116
+  BEAM019: 2/2 days → 20251115, 20251116
+  BEAM020: 2/2 days → 20251115, 20251116

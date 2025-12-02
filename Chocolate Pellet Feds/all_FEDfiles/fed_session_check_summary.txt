@@ -1,0 +1,78 @@
+
+=== FED Session Completeness Report ===
+Folder: C:/Users/sebastiana/OneDrive - Washington University in St. Louis/Desktop/all_FEDfiles
+Required session types: ['Bandit100', 'Bandit80', 'FR1', 'PR1']
+Report saved to: C:/Users/sebastiana/OneDrive - Washington University in St. Louis/Desktop/all_FEDfiles\fed_session_check_report.xlsx
+
+Total unique devices: 20
+  Bandit100: 19 devices
+  Bandit80: 20 devices
+  FR1: 20 devices
+  PR1: 20 devices
+
+File sorting:
+  Moved into Bandit_100: 21 files
+  Moved into Bandit_80: 20 files
+  Moved into FR1: 24 files
+  Moved into PR1: 20 files
+  Skipped empty files (left in place): 15
+  Skipped unclassified files (no recognized Session_type): 20
+
+Issues detected:
+- FED001:
+  * Has 9 files (expected 4).
+  * Duplicates: Bandit100 x2; FR1 x2
+  * Likely empty files (2): FED001_110425_00.CSV; FED001_110725_00.CSV
+- FED002:
+  * Has 10 files (expected 4).
+  * Duplicates: FR1 x3
+  * Likely empty files (3): FED002_110725_01.CSV; FED002_110725_02.CSV; FED002_110725_03.CSV
+- FED003:
+  * Has 9 files (expected 4).
+  * Duplicates: Bandit100 x2
+  * Likely empty files (3): FED003_110425_00.CSV; FED003_110425_01.CSV; FED003_110625_00.CSV
+- FED004:
+  * Has 6 files (expected 4).
+  * Duplicates: FR1 x2
+- FED005:
+  * Has 5 files (expected 4).
+- FED006:
+  * Has 6 files (expected 4).
+  * Likely empty files (1): FED006_111025_00.CSV
+- FED007:
+  * Has 6 files (expected 4).
+  * Likely empty files (1): FED007_110725_00.CSV
+- FED008:
+  * Has 6 files (expected 4).
+  * Likely empty files (1): FED008_110325_00.CSV
+- FED009:
+  * Has 6 files (expected 4).
+  * Likely empty files (1): FED009_110725_00.CSV
+- FED010:
+  * Has 5 files (expected 4).
+- FED011:
+  * Has 6 files (expected 4).
+  * Likely empty files (1): FED011_110725_00.CSV
+- FED012:
+  * Has 5 files (expected 4).
+- FED013:
+  * Has 5 files (expected 4).
+  * Missing types: Bandit100
+  * Likely empty files (1): FED013_110325_00.CSV
+- FED014:
+  * Has 5 files (expected 4).
+- FED015:
+  * Has 5 files (expected 4).
+- FED016:
+  * Has 5 files (expected 4).
+- FED017:
+  * Has 6 files (expected 4).
+  * Likely empty files (1): FED017_110725_00.CSV
+- FED018:
+  * Has 5 files (expected 4).
+- FED019:
+  * Has 5 files (expected 4).
+- FED020:
+  * Has 5 files (expected 4).
+
+Open the XLSX report for the full table.
