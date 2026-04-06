@@ -1,0 +1,12 @@
+MM:DD:YYYY hh:mm:ss,Library_Version,Session_type,Device_Number,Battery_Voltage,Motor_Turns,FR,Event,Active_Poke,Left_Poke_Count,Right_Poke_Count,Pellet_Count,Block_Pellet_Count,Retrieval_Time,InterPelletInterval,Poke_Time
+11/6/2025 16:06:44,1.17.2,FR1,3,3.63,nan,1,Left,Left,1,0,0,0,nan,nan,0.44
+11/6/2025 16:07:49,1.17.2,FR1,3,3.62,3,1,Pellet,Left,1,0,1,0,59.89,nan,nan
+11/6/2025 16:09:38,1.17.2,FR1,3,3.62,nan,1,Left,Left,2,0,1,0,nan,nan,0.46
+11/6/2025 16:09:41,1.17.2,FR1,3,3.62,2,1,Pellet,Left,2,0,2,0,0.65,112,nan
+11/6/2025 16:10:02,1.17.2,FR1,3,3.63,nan,1,Left,Left,3,0,2,0,nan,nan,0.05
+11/6/2025 16:10:05,1.17.2,FR1,3,3.63,1,1,Pellet,Left,3,0,3,0,2.98,24,nan
+11/6/2025 16:14:23,1.17.2,FR1,3,3.63,nan,1,Left,Left,4,0,3,0,nan,nan,0.06
+11/6/2025 16:14:25,1.17.2,FR1,3,3.62,1,1,Pellet,Left,4,0,4,0,1.01,260,nan
+11/6/2025 16:17:39,1.17.2,FR1,3,3.63,nan,1,Right,Left,4,1,4,0,nan,nan,0.27
+11/6/2025 16:18:04,1.17.2,FR1,3,3.63,nan,1,Left,Left,5,1,4,0,nan,nan,0.47
+11/6/2025 16:18:15,1.17.2,FR1,3,3.62,6,1,Pellet,Left,5,1,5,0,0.71,230,nan
